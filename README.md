@@ -24,4 +24,3 @@ Git과 GitHub의 이슈, 작업 브랜치, PR 리뷰를 연습하는 비공개 �
 
 .github/ISSUE_TEMPLATE/documentation.md는 문서 이슈 양식, .github/pull_request_template.md는 PR 양식입니다.
 코드 실행이나 패키지 설치가 필요한 프로젝트는 아닙니다. 클론한 뒤 문서를 읽고 GitHub의 이슈와 PR 상태를 확인합니다.
-잘못 추가한 내용
